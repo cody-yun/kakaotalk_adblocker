@@ -1,0 +1,14 @@
+# 카카오톡 원본/패치 앱 바이너리 — 저작물이므로 저장소에 포함하지 않음
+backup/
+build/
+*.app/
+
+# 재서명 시 추출되는 권한 파일
+entitlements*.plist
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
